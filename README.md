@@ -28,7 +28,7 @@ npm install dependencies
 
 ## Usage
 
-The project is a Nodejs script that can be run from the command line.
+This project scrapes the matches of ipl(2020-2021) and transforms them into an excel file.
 Type 
 
 ```js
